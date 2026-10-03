@@ -4,8 +4,6 @@ services:
     container_name: b2b_competitive_intelligence
     ports:
       - "8501:8501"
-    env_file:
-      - .env
     environment:
       - OLLAMA_BASE_URL=http://host.docker.internal:11434
     extra_hosts:
