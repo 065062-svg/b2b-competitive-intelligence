@@ -1,12 +1,13 @@
 services:
-  ollama:
-    image: ollama/ollama:latest
-    container_name: b2b_ollama
+  app:
+    build: .
+    container_name: b2b_competitive_intelligence
     ports:
-      - "11434:11434"
-    volumes:
-      - ollama_data:/root/.ollama
+      - "8501:8501"
+    env_file:
+      - .env
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     restart: unless-stopped
-
-volumes:
-  ollama_data:

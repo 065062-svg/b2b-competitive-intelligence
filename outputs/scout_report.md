@@ -1,31 +1,58 @@
-Based on the information provided by the web searches, here are the key findings for the CRM competitors Zoho CRM, Salesforce, HubSpot, and Freshworks:
+Based on the information provided, here are the key findings for each CRM software:
 
 ### Zoho CRM
-- **Product Updates and Enhancements:**
-  - Zoho CRM has released updates in the first quarter of 2026, focusing on personalized quotes, customer listening, and process productivity improvements. More details can be found [here](https://www.zoho.com/blog/crm/q1-2026-update.html) and [here](https://www.zoho.com/en-us/crm/zohocrm-pricing.html).
-- **Pricing Changes:**
-  - Zoho CRM pricing for 2026 includes different plans such as Free for 3 users, Standard, Professional, Enterprise, and Ultimate. Pricing details can be found [here](https://www.zoho.com/en-us/crm/zohocrm-pricing.html) and [here](https://www.zoho.com/crm/whats-new/release-notes.html).
+- **Product Updates 2026:**
+  - Zoho CRM has a free edition that supports up to 3 users, including features like leads, documents, and mobile apps. This is suitable for home businesses.
+  - Zoho CRM pricing plans include Standard, Professional, Enterprise, and Ultimate editions. The pricing for 2026 is as follows:
+    - Standard: $14 per user/month
+    - Professional: $23 per user/month
+    - Enterprise: $40 per user/month
+    - Ultimate: $52 per user/month
+  - Add-ons and setup costs are also mentioned.
+
+- **Pricing Changes 2026:**
+  - Zoho CRM replaced its per-hub discount system with the "Starter Customer Platform" bundle in January 2026. Existing customers had 90 days to migrate to this new bundle, which includes all five hubs at a flat per-seat price.
 
 ### Salesforce
-- **Product Updates and Enhancements:**
-  - Salesforce has released updates in the Spring and Summer 2026 releases. The latest updates can be found [here](https://www.salesforce.com/products/innovation/spring-2026-release/) and [here](https://www.salesforce.com/news/stories/summer-2026-product-release-announcement/).
-- **Pricing Changes:**
-  - Salesforce has increased CRM pricing in 2026. The pricing plans are now $180/user/month for Essentials, $200/user/month for Professional, and $40/user/month for Enterprise. More details can be found [here](https://www.getpricepulse.com/companies/salesforce-pricing.html) and [here](https://costbench.com/software/crm/salesforce/).
+- **Product Updates 2026:**
+  - Salesforce introduced new innovations to improve compliance, field productivity, service efficiency, and industry-specific workflows.
+  - Salesforce also released updates for modules and editions, with pricing based on modules and editions.
+  - Salesforce pricing for 2026 includes:
+    - Sales Cloud, Service Cloud, Marketing Cloud, and Einstein AI plans.
+    - Real costs with seat fees, storage overages, and add-ons.
+    - Negotiation tactics that can be used to reduce costs.
+
+- **Pricing Changes 2026:**
+  - Salesforce pricing model basics: modules, editions, and licenses.
+  - Salesforce introduced a new Starter Customer Platform bundle in January 2026, replacing per-hub discounts. Existing customers had 90 days to migrate to this new bundle.
 
 ### HubSpot
-- **Product Updates and Enhancements:**
-  - HubSpot has announced product updates for July 2026, including new features for Customer Agent coaching tools and expanded HubSpot connectors. More details can be found [here](https://community.hubspot.com/t/july-2026-product-updates/155091) and [here](https://www.hubspot.com/new).
-- **Pricing Changes:**
-  - HubSpot has not provided specific pricing changes for 2026. However, the company has released a guide on how much a Zoho consultant costs in 2026, covering engagement economics alongside licence costs. More details can be found [here](https://lets-viz.com/blogs/zoho-crm-pricing-plans-compared-standard-to-ultimate-2026).
+- **Product Updates 2026:**
+  - HubSpot announced several product updates in June and July 2026, including:
+    - Deep investment in Customer Agent coaching tools.
+    - A significantly expanded HubSpot connector for Claude.
+    - Broad set of workflow, data model, and commerce improvements across the platform.
+  - HubSpot also launched new products like Context Home, Breeze Assistant, Agent Builder, HubSpot Work, and Marketing Studio 2.0.
+  - HubSpot's pricing in 2026 includes free CRM, per-seat plans, marketing-contact tiers, and mandatory onboarding fees.
+
+- **Pricing Changes 2026:**
+  - HubSpot replaced per-hub discounts with a single bundle of all five hubs at a flat per-seat price in January 2026. Existing customers had 90 days to migrate to this new bundle.
 
 ### Freshworks
-- **Product Updates and Enhancements:**
-  - Freshworks has announced product updates for September 2026, including the release of AI Agent Studio in Freshservice, which aims to unlock service transformation and business growth. More details can be found [here](https://www.freshworks.com/theworks/company-news/september-2026-freshworks-innovation-update/) and [here](https://www.freshworks.com/freshservice/product-updates/).
-- **Pricing Changes:**
-  - Freshworks has not provided specific pricing changes for 2026. However, Freshdesk and Freshsales pricing plans have been updated. Freshdesk pricing starts at $15 and Freshsales pricing starts from $9 USD. More details can be found [here](https://www.freshworks.com/freshdesk/pricing/) and [here](https://www.freshworks.com/crm/pricing/).
+- **Product Updates 2026:**
+  - Freshworks introduced new capabilities for its Freddy AI Agents, making them more capable for service delivery.
+  - Freshworks expanded IT Asset Management capabilities by adding continuous infrastructure discovery and dependency mapping to Freshservice.
+- **Pricing 2026:**
+  - Freshworks pricing includes Freshdesk, Freshservice, and Freshsales tiers.
+  - Freshservice pricing starts at $19 USD/month.
+  - Freshsales pricing has a free plan in its metadata, but the live pricing grid did not display specific feature or seat limits.
 
-### Industry Developments
-- **Compliance and Industry-Specific Workflows:**
-  - Salesforce has introduced innovations to improve compliance, field productivity, service efficiency, and industry-specific workflows. More details can be found [here](https://www.salesforce.com/news/stories/summer-2026-product-release-announcement/).
+### Freshservice
+- **Pricing 2026:**
+  - Freshservice pricing is available on their official website, which covers all plans, per-user costs, and hidden fees.
 
-These findings provide a snapshot of the current product updates, pricing changes, and industry developments for the mentioned CRM competitors. For the most current and detailed information, it is recommended to check the official websites and latest news updates.
+### Freshsales
+- **Pricing 2026:**
+  - Freshsales pricing is available on their official website, which covers every plan, including the free plan, and specific feature and seat limits.
+
+These findings provide a comprehensive overview of the product and pricing updates for each CRM software in 2026. If you need more detailed information or have specific questions, feel free to ask!
